@@ -1,0 +1,11 @@
+D:\GitHub Repositories\AxxonSoft Test Application\AxxonSoft Test Application\bin\Debug\AxxonSoft Test Application.exe.config
+D:\GitHub Repositories\AxxonSoft Test Application\AxxonSoft Test Application\bin\Debug\AxxonSoft Test Application.exe
+D:\GitHub Repositories\AxxonSoft Test Application\AxxonSoft Test Application\bin\Debug\AxxonSoft Test Application.pdb
+D:\GitHub Repositories\AxxonSoft Test Application\AxxonSoft Test Application\obj\Debug\AxxonSoft Test Application.csproj.AssemblyReference.cache
+D:\GitHub Repositories\AxxonSoft Test Application\AxxonSoft Test Application\obj\Debug\AxxonSoft Test Application.csproj.SuggestedBindingRedirects.cache
+D:\GitHub Repositories\AxxonSoft Test Application\AxxonSoft Test Application\obj\Debug\AxxonSoft_Test_Application.Form1.resources
+D:\GitHub Repositories\AxxonSoft Test Application\AxxonSoft Test Application\obj\Debug\AxxonSoft_Test_Application.Properties.Resources.resources
+D:\GitHub Repositories\AxxonSoft Test Application\AxxonSoft Test Application\obj\Debug\AxxonSoft Test Application.csproj.GenerateResource.cache
+D:\GitHub Repositories\AxxonSoft Test Application\AxxonSoft Test Application\obj\Debug\AxxonSoft Test Application.csproj.CoreCompileInputs.cache
+D:\GitHub Repositories\AxxonSoft Test Application\AxxonSoft Test Application\obj\Debug\AxxonSoft Test Application.exe
+D:\GitHub Repositories\AxxonSoft Test Application\AxxonSoft Test Application\obj\Debug\AxxonSoft Test Application.pdb

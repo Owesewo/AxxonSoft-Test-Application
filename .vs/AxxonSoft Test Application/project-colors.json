@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3a6df361-e3ad-48bb-b5cd-0b2b0bd1bac4": {
+      "ProjectGuid": "3a6df361-e3ad-48bb-b5cd-0b2b0bd1bac4",
+      "DisplayName": "AxxonSoft Test Application",
+      "ColorIndex": 0
+    },
+    "758b38c4-8269-444d-abe6-3dd7169c885d": {
+      "ProjectGuid": "758b38c4-8269-444d-abe6-3dd7169c885d",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    },
+    "6dd1b1fd-8a7b-4dff-8aa3-3630bc9ad8ea": {
+      "ProjectGuid": "6dd1b1fd-8a7b-4dff-8aa3-3630bc9ad8ea",
+      "DisplayName": "ConsoleApp2",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
